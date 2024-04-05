@@ -1,15 +1,7 @@
 /*******************************************************************************
 *
 * Program: Pointer notation
-* 
-* Description: Examples of pointer notation and arithmetic in contrast to array 
-* notation in C.
-*
-* YouTube Lesson: https://www.youtube.com/watch?v=hWGYBMO553A
-*
-* Author: Kevin Browne @ https://portfoliocourses.com
-*
-*******************************************************************************/
+* /
 #include <stdio.h>
 
 void print(int *a);
